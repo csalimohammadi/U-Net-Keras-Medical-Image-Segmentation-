@@ -1,5 +1,5 @@
 # U-Net
-U-Net Based Medical Image segmentation algorithm (MultiResUnet and MultiResUnet)
+U-Net Based Medical Image segmentation algorithm (MultiResUNet and DenseUNet)
 
 In this J Notebook, you can find a complete code to load dataset, train and test a complex U-Net algorithm to segment the medical images.
 
